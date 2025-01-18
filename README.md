@@ -109,12 +109,12 @@ As code is my canvas for crafting masterpieces!</h2>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/shehza-d/smit-hackathons/pull/9) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-2. 🎉 Merged PR [#8](https://github.com/shehza-d/smit-hackathons/pull/8) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-3. 🎉 Merged PR [#7](https://github.com/shehza-d/smit-hackathons/pull/7) in [shehza-d/smit-hackathons](https://github.com/shehza-d/smit-hackathons)
-4. 🎉 Merged PR [#24](https://github.com/shehza-d/portfolio/pull/24) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-5. 💪 Opened PR [#24](https://github.com/shehza-d/portfolio/pull/24) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
-6. 🎉 Merged PR [#23](https://github.com/shehza-d/portfolio/pull/23) in [shehza-d/portfolio](https://github.com/shehza-d/portfolio)
+1. 🎉 Merged PR [#3](https://github.com/Deployyitout/badges/pull/3) in [Deployyitout/badges](https://github.com/Deployyitout/badges)
+2. 💪 Opened PR [#3](https://github.com/Deployyitout/badges/pull/3) in [Deployyitout/badges](https://github.com/Deployyitout/badges)
+3. 🔒 Closed issue [#1](https://github.com/Deployyitout/quickdraw-badge/issues/1) in [Deployyitout/quickdraw-badge](https://github.com/Deployyitout/quickdraw-badge)
+4. ❗ Opened issue [#1](https://github.com/Deployyitout/quickdraw-badge/issues/1) in [Deployyitout/quickdraw-badge](https://github.com/Deployyitout/quickdraw-badge)
+5. 🎉 Merged PR [#2](https://github.com/Deployyitout/badges/pull/2) in [Deployyitout/badges](https://github.com/Deployyitout/badges)
+6. 💪 Opened PR [#2](https://github.com/Deployyitout/badges/pull/2) in [Deployyitout/badges](https://github.com/Deployyitout/badges)
 <!--END_SECTION:activity-->
 
 <hr>
