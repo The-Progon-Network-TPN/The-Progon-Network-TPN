@@ -25,11 +25,6 @@ As code is my canvas for crafting masterpieces!</h2>
 | Currently Learning | DSA, NestJs |
 | ------------------ | ----------- |
 
-<p align="center">
-	<a href="https://shehzad.vercel.app/" align="center" target="_blank"
-		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
-		PORTFOLIO WEBSITE</a>
-</p>
 
 <hr>
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
